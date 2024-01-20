@@ -1,2 +1,2 @@
-# Pervoskite
+# Perovskite
 # Semiconductor
